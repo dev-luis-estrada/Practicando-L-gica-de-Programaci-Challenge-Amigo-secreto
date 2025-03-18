@@ -1,5 +1,5 @@
-# Practicando-L-gica-de-Programaci-Challenge-Amigo-secreto
-Practicando Lógica de Programación: Challenge Amigo secreto
+#Challenge-Amigo-secreto
+Practicando Logica de Programación: Challenge Amigo secreto
 
 🎁 Amigo Secreto 🎁
 Descripción
